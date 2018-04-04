@@ -16,7 +16,10 @@ Here are links to some of my project repositories:
 * [Google Maps implementation](https://github.com/rachhshruti/google-maps)
 * [Min-Max algorithm](https://github.com/rachhshruti/min-max-algorithm)
 * [Part of speech tagging](https://github.com/rachhshruti/pos-tagging)
-  
+
+## Scripting
+* [Image scraper for Flickr](https://github.com/rachhshruti/py-scrape-flickr)
+
 ## Music Information Processing
 * [Automatic Transcription of Piano Music](https://github.com/rachhshruti/automatic-music-transcription)
 
