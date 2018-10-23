@@ -3,8 +3,9 @@ I like to explore new technologies and the best software engineering practices. 
 
 Here are links to some of my project repositories:
 
-## Software Engineering
-* [Word Drop Android game](https://github.com/rachhshruti/worddrop-android-game)
+## Game Development
+* [__Android Game:__ Word Drop](https://github.com/rachhshruti/worddrop-android-game)
+* [__VR Game:__ Maze game for Vive VR headset](https://github.com/rachhshruti/maze-game-vr)
 
 ## Computer Networks
 * [File Transfer using TCP](https://github.com/rachhshruti/file-transfer-tcp)
@@ -22,9 +23,6 @@ Here are links to some of my project repositories:
 
 ## Music Information Processing
 * [Automatic Transcription of Piano Music](https://github.com/rachhshruti/automatic-music-transcription)
-
-## Virtual Reality
-* [Maze game for Vive VR headset](https://github.com/rachhshruti/maze-game-vr) 
 
 ## Data Mining
 * [Greedy algorithm for classification tree](https://github.com/rachhshruti/classification-tree-greedy-algorithm)
